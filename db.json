@@ -54,6 +54,17 @@
         "cost": "100",
         "borrowed": false,
         "id": 79
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+        "book_name": "Designing",
+        "author": "Aman",
+        "genre": "Tech",
+        "edition": "fiction",
+        "publisher": "Bloomsbury",
+        "cost": "200",
+        "borrowed": false,
+        "id": 15
       }
     ]
   }
