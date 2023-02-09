@@ -1,0 +1,59 @@
+{
+    "books": [
+      {
+        "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+        "book_name": "Design",
+        "author": "Ayush",
+        "genre": "Fiction",
+        "edition": "2022",
+        "publisher": "Bloomsbury",
+        "cost": "920",
+        "borrowed": false,
+        "id": 11
+      },
+      {
+        "image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+        "book_name": "My book edited",
+        "author": "Piyush",
+        "genre": "History",
+        "edition": "2006",
+        "publisher": "Bloomsbury",
+        "cost": "700",
+        "borrowed": false,
+        "id": 7
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+        "book_name": "Harry Porter",
+        "author": "J. K. Rowling",
+        "genre": "Business",
+        "edition": "2023",
+        "publisher": "Bloomsbury",
+        "cost": "300",
+        "borrowed": false,
+        "id": 2
+      },
+      {
+        "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+        "book_name": "Designing",
+        "author": "Ayush",
+        "genre": "Tech",
+        "edition": "fiction",
+        "publisher": "Bloomsbury",
+        "cost": "200",
+        "borrowed": false,
+        "id": 12
+      },
+      {
+        "image_url": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+        "book_name": "My book edited",
+        "author": "Piyush",
+        "genre": "Science",
+        "edition": "2006",
+        "publisher": "Bloomsbury",
+        "cost": "100",
+        "borrowed": false,
+        "id": 79
+      }
+    ]
+  }
