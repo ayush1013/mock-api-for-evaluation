@@ -65,6 +65,18 @@
         "cost": "200",
         "borrowed": false,
         "id": 15
+      },
+      
+      {
+        "image_url": "https://m.media-amazon.com/images/I/41gr3r3FSWL.jpg",
+        "book_name": "Astrology",
+        "author": "Vikas",
+        "genre": "Science",
+        "edition": "2020",
+        "publisher": "Bloomsbury",
+        "cost": "1200",
+        "borrowed": false,
+        "id": 16
       }
     ]
   }
